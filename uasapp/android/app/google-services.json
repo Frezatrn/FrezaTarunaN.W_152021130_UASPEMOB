@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349438320862",
+    "project_id": "uasapp-73f55",
+    "storage_bucket": "uasapp-73f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349438320862:android:3708eee13fa5bbbd54224f",
+        "android_client_info": {
+          "package_name": "com.example.uasapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe0aAoijhJHNHzt_H6tN1TEbgye0jMvcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
